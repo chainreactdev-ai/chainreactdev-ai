@@ -3,38 +3,32 @@
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
     <img src="./assets/banner-light.svg" width="100%" alt="ChainReact — Engineering intelligent systems. Building products that matter." />
   </picture>
-  <h1>Senior Software Engineer &amp; AI Product Builder</h1>
-  <p><strong>I build intelligent applications, reliable backends and software products for real-world problems.</strong></p>
-  <p><em>Je conçois des applications intelligentes, des backends fiables et des produits logiciels utiles.</em></p>
-  <p>France / Remote · AI Engineering · Backend · Full-stack · Web3</p>
+  <h1>Senior Software Engineer &amp; Tech Lead</h1>
+  <p>Software Architecture · AI Engineering · Agentic Development</p>
+  <p><a href="https://chainreactdev-ai.github.io/"><strong>Professional website · Site professionnel</strong></a></p>
 </div>
 
-## Engineering focus · Domaines d'expertise
+I design and build reliable software systems, combining technical leadership, software architecture and applied AI.
 
-**AI engineering** — Generative AI, autonomous agents and retrieval-augmented generation.
+My focus is on maintainable applications, intelligent automation and AI-driven engineering practices that deliver practical business value.
 
-**Software engineering** — Backend APIs, full-stack applications, distributed systems and B2B SaaS.
+## Core expertise
 
-**Applied research** — Blockchain engineering, quantitative research and automation.
+**Software Architecture & Engineering** — Scalable backend services, modern web applications and maintainable architectures.
 
-## Building with · Mes outils
+**AI Engineering & Agentic Systems** — Generative AI, agent orchestration, AWS AI services and intelligent automation.
 
-| Domain | Technologies |
+**Agentic Software Development** — AI-powered development workflows, coding agents, automated testing and engineering quality.
+
+## Technology focus
+
+| Area | Focus |
 | --- | --- |
-| AI | LLMs · RAG · AI agents · Ollama |
-| Backend | TypeScript · Node.js · Python · FastAPI |
+| Backend | Node.js · Python |
 | Frontend | React · Next.js |
-| Data & infrastructure | PostgreSQL · Linux · Docker · GitHub Actions |
-| Blockchain | Solidity · Ethereum |
+| Cloud & AI | AWS Bedrock · Agentic Frameworks |
+| Agentic development | Codex · Claude Code |
 
 ## Engineering principles
 
-Keep it simple. Test critical paths. Design for reliability and security. Ship measurable value.
-
-## Let's connect · Me contacter
-
-[GitHub](https://github.com/chainreactdev-ai)
-
-<div align="center">
-  <sub>From architecture to production. From ideas to products.</sub>
-</div>
+Simplicity, reliability, security and measurable value.
